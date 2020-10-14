@@ -1,0 +1,14 @@
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.deps.json
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\Repositories.pdb
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\AServerDB.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\AServerDB.pdb
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csprojAssemblyReference.cache
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfoInputs.cache
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.AssemblyInfo.cs
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.csproj.CopyComplete
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\Repositories\obj\Debug\netcoreapp2.1\Repositories.pdb

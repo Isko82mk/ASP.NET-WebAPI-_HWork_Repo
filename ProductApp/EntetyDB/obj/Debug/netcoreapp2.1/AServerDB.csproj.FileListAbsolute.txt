@@ -1,0 +1,15 @@
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\AServerDB.deps.json
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\AServerDB.runtimeconfig.json
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\AServerDB.runtimeconfig.dev.json
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\AServerDB.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\AServerDB.pdb
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\Models.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\bin\Debug\netcoreapp2.1\Models.pdb
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.csprojAssemblyReference.cache
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.AssemblyInfoInputs.cache
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.AssemblyInfo.cs
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.csproj.CoreCompileInputs.cache
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.csproj.CopyComplete
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.dll
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.pdb
+C:\Users\Isko\Desktop\WebAPI\ProductApp\EntetyDB\obj\Debug\netcoreapp2.1\AServerDB.genruntimeconfig.cache

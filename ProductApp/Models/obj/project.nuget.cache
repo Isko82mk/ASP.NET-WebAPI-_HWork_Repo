@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZn17gdlaUn/KAX2Mr9ieq6wQHWs00sU6uif2OAmoK4dORhTpJUT7QRA9i3yvaD62UyE8wF6c1y+bs49XhI1Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isko\\Desktop\\WebAPI\\HomeWorkRepo\\ProductApp\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isko\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\Isko\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\Isko\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\Isko\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\Isko\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\Isko\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\Isko\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
